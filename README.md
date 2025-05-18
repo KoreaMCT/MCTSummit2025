@@ -48,7 +48,7 @@ MCT가 모두가 노력 할 수 있는 계기가 되었으면 좋겠습니다.
 👉 [GitHub Repository - 발표자료 모음](https://github.com/KoreaMCT/MCTSummit2025)
 
 - [`발표자료공유/`](https://github.com/KoreaMCT/MCTSummit2025/tree/main/발표자료공유): 발표 자료 PDF 와 코드 예제, 실습 자료 등  
-- [`행사사진/`](https://github.com/KoreaMCT/MCTSummit2025/tree/main/행사사진): 행사사진
+- [`행사사진/`](https://1drv.ms/a/c/2ecff094190d4069/Es8nDf5feq1Hojbkz1VjwfsBKVoXZSJCgCsRYZxVYdj3wA?e=SgzuQ3): 행사사진
 
 ## ✍️ 행사 피드백
 
