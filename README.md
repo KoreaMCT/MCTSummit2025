@@ -39,6 +39,9 @@
 
 👉 [GitHub Repository - 발표자료 모음](https://github.com/KoreaMCT/MCTSummit2025)
 
+- `발표자료/`: 발표 자료 PDF 와 코드 예제, 실습 자료 등
+- `행사사진/`: 행사사진
+
 ## ✍️ 행사 피드백
 
 참가하셨다면, 센스 있게 피드백도 남겨주세요!  
